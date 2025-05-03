@@ -1,3 +1,4 @@
+//CAMBIOS RECIENTES
 package com.chollywood.chollywood.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,3 +20,4 @@ public class ZonaViewController {
         return "zonas"; // nombre del archivo HTML (peliculas.html)
     }
 }
+////CAMBIOS RECIENTES
